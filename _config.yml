@@ -2,7 +2,7 @@ title: "আমার বাংলা ব্লগ"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # এখানে air, aqua, contrast বা dirt ব্যবহার করতে পারেন
 
-url: "https://yourusername.github.io" # এখানে আপনার ইউজারনেম দিন
+url: "https://mdarafathosentop.github.io/My-blog" # এখানে আপনার ইউজারনেম দিন
 baseurl: ""
 
 repository: "yourusername/your-repo-name" # আপনার ইউজারনেম/রিপোজিটরির নাম দিন
