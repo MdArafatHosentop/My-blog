@@ -1,10 +1,15 @@
-title: আমার বাংলা ব্লগ
-email: your-email@gmail.com
-description: >-
-  গিটহাব পেজ ব্যবহার করে আমার তৈরি করা প্রথম ব্লগ।
-baseurl: "" 
-url: "https://yourusername.github.io" # yourusername এর জায়গায় আপনার গিটহাব ইউজারনেম দিন
+title: "আমার বাংলা ব্লগ"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # এখানে air, aqua, contrast বা dirt ব্যবহার করতে পারেন
 
-# Build settings
-remote_theme: mmistakes/minimal-mistakes
-include: ["_pages"]
+url: "https://yourusername.github.io" # এখানে আপনার ইউজারনেম দিন
+baseurl: ""
+
+repository: "yourusername/your-repo-name" # আপনার ইউজারনেম/রিপোজিটরির নাম দিন
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+include:
+  - _pages
