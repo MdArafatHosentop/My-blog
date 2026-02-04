@@ -1,0 +1,16 @@
+content:
+  - label: Posts
+    type: collection
+    path: _posts
+    format: md
+    fields:
+      - label: Title
+        name: title
+        type: string
+      - label: Layout
+        name: layout
+        type: string
+        default: single
+      - label: Body
+        name: body
+        type: rich-text
