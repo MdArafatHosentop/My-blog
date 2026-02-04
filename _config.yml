@@ -23,3 +23,5 @@ author:
       url: "https://facebook.com/yourprofile"
       url: "https://mdarafathosentop.github.io"
 baseurl: "/My-blog"
+paginate: 5
+paginate_path: /page:num/
