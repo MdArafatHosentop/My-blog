@@ -21,3 +21,5 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/yourprofile"
+      url: "https://mdarafathosentop.github.io"
+baseurl: "/My-blog"
