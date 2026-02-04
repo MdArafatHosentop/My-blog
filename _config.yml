@@ -14,7 +14,7 @@ plugins:
 include:
   - _pages
 author:
-  name   : "আপনার নাম"
+  name   : "Md Arafat Hosen"
   bio    : "আমি একজন ব্লগার এবং প্রযুক্তি প্রেমী।"
   avatar : "assets/images/bio-photo.jpg" # পরে এই নামে ছবি আপলোড করবেন
   links:
@@ -22,4 +22,4 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/yourprofile"
       url: "https://mdarafathosentop.github.io"
-/baseurl: "/My-blog"/
+baseurl: "/My-blog"
