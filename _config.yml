@@ -1,0 +1,10 @@
+title: আমার বাংলা ব্লগ
+email: your-email@gmail.com
+description: >-
+  গিটহাব পেজ ব্যবহার করে আমার তৈরি করা প্রথম ব্লগ।
+baseurl: "" 
+url: "https://yourusername.github.io" # yourusername এর জায়গায় আপনার গিটহাব ইউজারনেম দিন
+
+# Build settings
+remote_theme: mmistakes/minimal-mistakes
+include: ["_pages"]
