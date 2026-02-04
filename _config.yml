@@ -13,3 +13,11 @@ plugins:
 
 include:
   - _pages
+author:
+  name   : "আপনার নাম"
+  bio    : "আমি একজন ব্লগার এবং প্রযুক্তি প্রেমী।"
+  avatar : "assets/images/bio-photo.jpg" # পরে এই নামে ছবি আপলোড করবেন
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/yourprofile"
